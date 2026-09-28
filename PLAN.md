@@ -261,13 +261,13 @@ pytest tests/test_bonus_cicd.py -v
 
 ## Danh sách kiểm tra cuối cùng
 
-- [ ] Repo đúng tên `K4-L3A-DAY12-<HoVaTen>-<MSSV>-CloudServicesAndDeployment`
-- [ ] `pytest tests/ -v` chạy hết, biết rõ test nào còn rớt và vì sao
-- [ ] `python grade.py` ≥ 75/100
-- [ ] `exercises.md` đủ 10 câu, viết bằng lời của mình
-- [ ] `DEPLOYMENT.md` có Public URL thật, không dán giá trị `AGENT_API_KEY`
-- [ ] `screenshots/` có ảnh dashboard và ảnh gọi `/health`
-- [ ] `.env` không nằm trong repo
-- [ ] Không còn `NotImplementedError` trong `app/`
-- [ ] Có commit ở nhiều mốc thời gian
+- [x] Repo đúng tên `K4-L3A-DAY12-<HoVaTen>-<MSSV>-CloudServicesAndDeployment`
+- [x] `pytest tests/ -v` chạy hết, biết rõ test nào còn rớt và vì sao
+- [x] `python grade.py` ≥ 75/100
+- [x] `exercises.md` đủ 10 câu, viết bằng lời của mình
+- [x] `DEPLOYMENT.md` có Public URL thật, không dán giá trị `AGENT_API_KEY`
+- [x] `screenshots/` có ảnh dashboard và ảnh gọi `/health`
+- [x] `.env` không nằm trong repo
+- [x] Không còn `NotImplementedError` trong `app/`
+- [x] Có commit ở nhiều mốc thời gian
 - [ ] *(Bonus)* `.github/workflows/ci.yml` chạy xanh, badge README báo `passing`
